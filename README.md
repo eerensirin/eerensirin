@@ -1,5 +1,5 @@
 <a href="https://erensirin.vercel.app">
-  <img src="assets/welcome.svg" width="100%" alt="Hi, I’m Eren. I help companies bring AI and automation into their contact centers: I show how it works, and build what’s missing.">
+  <img src="assets/welcome.svg" width="100%" alt="Hi, I’m Eren. Currently a Presales Engineer at AloTech / Call Center Studio, focused on voice AI, AI agents and integrations for contact centers.">
 </a>
 
 <p>
