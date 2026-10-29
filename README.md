@@ -24,35 +24,35 @@ Before this, at Solution Partners, I built a pipeline that collected and cleaned
 
 <!-- chips:start -->
 <p>
-  <img src="assets/chips/_build.svg" alt="Build:">
-  <img src="assets/chips/python.svg" alt="Python">
-  <img src="assets/chips/typescript.svg" alt="TypeScript">
-  <img src="assets/chips/sql.svg" alt="SQL">
-  <img src="assets/chips/n8n.svg" alt="n8n">
-  <img src="assets/chips/bigquery.svg" alt="BigQuery">
-  <img src="assets/chips/google-cloud.svg" alt="Google Cloud">
-  <img src="assets/chips/rest-apis.svg" alt="REST APIs">
-  <img src="assets/chips/webhooks.svg" alt="Webhooks">
+  <picture><img src="assets/chips/_build.svg" alt="Build:"></picture>
+  <picture><img src="assets/chips/python.svg" alt="Python"></picture>
+  <picture><img src="assets/chips/typescript.svg" alt="TypeScript"></picture>
+  <picture><img src="assets/chips/sql.svg" alt="SQL"></picture>
+  <picture><img src="assets/chips/n8n.svg" alt="n8n"></picture>
+  <picture><img src="assets/chips/bigquery.svg" alt="BigQuery"></picture>
+  <picture><img src="assets/chips/google-cloud.svg" alt="Google Cloud"></picture>
+  <picture><img src="assets/chips/rest-apis.svg" alt="REST APIs"></picture>
+  <picture><img src="assets/chips/webhooks.svg" alt="Webhooks"></picture>
 </p>
 <p>
-  <img src="assets/chips/_ai.svg" alt="AI:">
-  <img src="assets/chips/llm-apis.svg" alt="LLM APIs">
-  <img src="assets/chips/rag.svg" alt="RAG">
-  <img src="assets/chips/tool-calling.svg" alt="Tool calling">
-  <img src="assets/chips/ai-agents.svg" alt="AI agents">
-  <img src="assets/chips/tensorflow.svg" alt="TensorFlow">
-  <img src="assets/chips/pytorch.svg" alt="PyTorch">
-  <img src="assets/chips/scikit-learn.svg" alt="scikit-learn">
+  <picture><img src="assets/chips/_ai.svg" alt="AI:"></picture>
+  <picture><img src="assets/chips/llm-apis.svg" alt="LLM APIs"></picture>
+  <picture><img src="assets/chips/rag.svg" alt="RAG"></picture>
+  <picture><img src="assets/chips/tool-calling.svg" alt="Tool calling"></picture>
+  <picture><img src="assets/chips/ai-agents.svg" alt="AI agents"></picture>
+  <picture><img src="assets/chips/tensorflow.svg" alt="TensorFlow"></picture>
+  <picture><img src="assets/chips/pytorch.svg" alt="PyTorch"></picture>
+  <picture><img src="assets/chips/scikit-learn.svg" alt="scikit-learn"></picture>
 </p>
 <p>
-  <img src="assets/chips/_voice.svg" alt="Voice:">
-  <img src="assets/chips/openai.svg" alt="OpenAI">
-  <img src="assets/chips/elevenlabs.svg" alt="ElevenLabs">
-  <img src="assets/chips/vapi.svg" alt="Vapi">
-  <img src="assets/chips/twilio.svg" alt="Twilio">
-  <img src="assets/chips/stt-tts.svg" alt="STT / TTS">
-  <img src="assets/chips/sip-ivr.svg" alt="SIP &amp; IVR">
-  <img src="assets/chips/human-handoff.svg" alt="Human handoff">
+  <picture><img src="assets/chips/_voice.svg" alt="Voice:"></picture>
+  <picture><img src="assets/chips/openai.svg" alt="OpenAI"></picture>
+  <picture><img src="assets/chips/elevenlabs.svg" alt="ElevenLabs"></picture>
+  <picture><img src="assets/chips/vapi.svg" alt="Vapi"></picture>
+  <picture><img src="assets/chips/twilio.svg" alt="Twilio"></picture>
+  <picture><img src="assets/chips/stt-tts.svg" alt="STT / TTS"></picture>
+  <picture><img src="assets/chips/sip-ivr.svg" alt="SIP &amp; IVR"></picture>
+  <picture><img src="assets/chips/human-handoff.svg" alt="Human handoff"></picture>
 </p>
 <!-- chips:end -->
 
