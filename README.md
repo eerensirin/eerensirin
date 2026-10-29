@@ -1,5 +1,5 @@
 <a href="https://erensirin.vercel.app">
-  <img src="assets/welcome.svg" width="100%" alt="Hi, I’m Eren. Currently a Presales Engineer at AloTech / Call Center Studio, focused on voice AI, AI agents and integrations for contact centers.">
+  <img src="assets/welcome.svg" width="100%" alt="Hi, I’m Eren. Presales Engineer at AloTech / Call Center Studio: technical discovery, demos, PoCs and integrations for contact center projects.">
 </a>
 
 <p>
@@ -11,7 +11,7 @@
 
 ### 👋 Welcome
 
-I’m a Presales Engineer at **AloTech / Call Center Studio**, based in Istanbul. Companies come to us wanting AI on their phone lines and chats. I show them how it works in a demo or a pilot, and when they need something the product doesn’t do yet, I connect it myself with an API, a webhook or a small automation.
+I’m a Presales Engineer at **AloTech / Call Center Studio**, based in Istanbul. I work on contact center projects from the first technical meeting to go-live: discovery, demos, PoCs and the integrations each customer needs. When a customer needs something the product doesn’t do yet, I connect it myself with an API, a webhook or a small automation.
 
 - 🌏 Worked on site with customers in **Manila, Cebu and Kuala Lumpur**; demos and pilots across Türkiye, APAC, Europe and Africa
 - 🎙️ Voice agents that connect telephony, IVR, CRM and knowledge bases, with a handoff to a human agent
